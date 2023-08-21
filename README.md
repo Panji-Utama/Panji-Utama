@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 
 ## Get in Touch
 
-- <img src="/icons/linkedin-icon.png" width="20" height="20"> [Connect with me on LinkedIn](https://www.linkedin.com/in/firman-panji-utama/)
+- <img src="/icons/linkedin-icon.png" width="20" height="20"> [Connect with me on LinkedIn](https://www.linkedin.com/in/firmanpanjiutama/)
 - <img src="/icons/instagram-icon.png" width="20" height="20"> [Follow me on Instagram](https://www.instagram.com/_.panji24/)
 - Portfolio: [Visit my portfolio website](https://panji-utama.github.io/)
 
