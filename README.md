@@ -1,7 +1,7 @@
 # Hello, I'm Firman Panji Utama 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Panji-Utama?label=Follow&style=social)](https://github.com/Panji-Utama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/firman-panji-utama/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/firmanpanjiutama/)
 
 Welcome to my GitHub profile! I'm an undergraduate Software Engineering student at Telkom University. I have a passion for working out and diving into topics that pique my curiosity—especially those related to programming and software development.
 
