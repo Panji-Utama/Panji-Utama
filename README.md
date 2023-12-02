@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 ## About Me
 
 - 🎓 I am an undergraduate Software Engineering student at Telkom University.
-- 💻 Aspiring to be a professional fullstack developer, currently more inclined towards backend development.
+- 💻 Aspiring to be a professional fullstack developer, currently more inclined towards Front-end Development.
 - 🏋️‍♂️ I enjoy working out and staying fit.
 - 📚 Always eager to learn and explore new technologies.
 
