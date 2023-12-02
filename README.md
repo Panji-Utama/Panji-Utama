@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 
 ## My Projects
 
-- [Anti-Anxiety App](https://github.com/Panji-Utama/Anti-Anxiety_Mobile.ver): An app where patients with anxiety could consult to both psychologist and psychiatrist.
+- [Anti-Anxiety App](https://github.com/Panji-Utama/Anti-Anxiety_Mobile.ver): An mobile app where patients with anxiety could consult to both psychologist and psychiatrist.
+- [Vanilla Web Series](https://github.com/Panji-Utama/Vanilla-Web-Series): A series of side projects that uses only vanilla HTML, CSS, and JS. Some other tech is also used to showcase my ability to integrate these vanilla tech stacks with other techs.
 
 ## Get in Touch
 
