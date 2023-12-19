@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 
 Feel free to connect with me and explore my work!
 
-![Firman Panji Utama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panji-Utama&show_icons=true&theme=dracula)
+![Firman Panji Utama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panji-Utama&show_icons=true&theme=tokyonight )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panji-Utama&layout=compact&theme=dracula)](https://github.com/Panji-Utama)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panji-Utama&layout=compact&theme=tokyonight )](https://github.com/Panji-Utama)
