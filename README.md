@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a final year undergraduate Software Engineerin
 
 ## Ongoing ✍🏻
 
-| Project Name  | Description | Tech Stacks Used |
-| ------------- | ------------- | ------------- |
-| [Survey](https://github.com/Panji-Utama/survey-app)  | A website where users can choose to be a filler (fill questionnaires made by other) or a maker (make questionnaire for others to fill).  | [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs)](https://skillicons.dev) |
-| [Grandeur](https://github.com/Panji-Utama/L10-ecommerce)  |An e-commerce website where people can buy curated collections of premium home products, including exquisite beds, luxurious sofas, elegant chairs, refined tables, and more, to elevate their living spaces with timeless elegance and sophistication.  | [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,mysql)](https://skillicons.dev) |
+| Project Name  | Description | Tech Stacks Used | Specialized Technologies |
+| ------------- | ------------- | ------------- | ------------- |
+| [Survey](https://github.com/Panji-Utama/survey-app)  | A website where users can choose to be a filler (fill questionnaires made by other) or a maker (make questionnaire for others to fill).  | [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nodejs)](https://skillicons.dev) | JWT (Authentication)|
+| [Gacor](https://github.com/Panji-Utama/L10-ecommerce)  |An e-commerce website where people can buy curated collections of premium home products, including exquisite beds, luxurious sofas, elegant chairs, refined tables, and more, to elevate their living spaces with timeless elegance and sophistication.  | [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,mysql)](https://skillicons.dev) | 
 
 ## Get in Touch 📨
 
