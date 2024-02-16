@@ -33,4 +33,6 @@ Feel free to connect with me and explore my work!
 
 ![Firman Panji Utama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panji-Utama&show_icons=true&theme=tokyonight )
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panji-Utama&layout=compact&theme=tokyonight )](https://github.com/Panji-Utama)
